@@ -2,6 +2,7 @@
 #include "cache.h"
 #include "attr.h"
 
+
 const char git_attr__true[] = "(builtin)true";
 const char git_attr__false[] = "\0(builtin)false";
 static const char git_attr__unknown[] = "(builtin)unknown";
